@@ -1,0 +1,147 @@
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\obj\Debug\Assembly-CSharp.dll
+C:\Users\Personal\Desktop\Ronaldo\IA\Monopolio V1.0\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.0\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.0\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ronald21\Desktop\Monopolio V2.0\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.0\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.5\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ronald21\Desktop\Monopolio V2.5\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ronald21\Desktop\Monopolio V2.5\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\Monopolio V2.5\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ronald21\Desktop\Monopolio V3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ronald21\Desktop\Monopolio V3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ronald21\Desktop\Monopolio V3\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\Monopolio V3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio V3\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\casi terminado\Monopolio BOT\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\obj\Debug\Assembly-CSharp.dll
+C:\Users\Ronald21\Desktop\PatriaPolio DEFINITIVO\PatriaPolio BOT\obj\Debug\Assembly-CSharp.pdb

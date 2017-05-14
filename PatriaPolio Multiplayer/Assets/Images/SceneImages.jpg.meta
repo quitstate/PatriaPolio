@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: de8e82e490a1b424aacc65254c473b69
+timeCreated: 1469423202
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SceneImages_0
+    21300002: SceneImages_1
+    21300004: SceneImages_2
+    21300006: SceneImages_3
+    21300008: SceneImages_4
+    21300010: SceneImages_5
+    21300012: SceneImages_6
+    21300014: SceneImages_7
+    21300016: SceneImages_8
+    21300018: SceneImages_9
+    21300020: SceneImages_10
+    21300022: SceneImages_11
+    21300024: SceneImages_12
+    21300026: SceneImages_13
+    21300028: SceneImages_14
+    21300030: SceneImages_15
+    21300032: SceneImages_16
+    21300034: SceneImages_17
+    21300036: SceneImages_18
+    21300038: SceneImages_19
+    21300040: SceneImages_20
+    21300042: SceneImages_21
+    21300044: SceneImages_22
+    21300046: SceneImages_23
+    21300048: SceneImages_24
+    21300050: SceneImages_25
+    21300052: SceneImages_26
+    21300054: SceneImages_27
+    21300056: SceneImages_28
+    21300058: SceneImages_29
+    21300060: SceneImages_30
+    21300062: SceneImages_31
+    21300064: SceneImages_32
+    21300066: SceneImages_33
+    21300068: SceneImages_34
+    21300070: SceneImages_35
+    21300072: SceneImages_36
+    21300074: SceneImages_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SceneImages_0
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 0
+        width: 496
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.48804, y: 138.5}
+        - {x: -84.48804, y: -138.5}
+        - {x: 85.51196, y: -138.5}
+        - {x: 85.51196, y: 138.5}
+    - name: SceneImages_1
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 469
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 137.5}
+        - {x: -80.5, y: -137.5}
+        - {x: 80.5, y: -137.5}
+        - {x: 80.5, y: 137.5}
+    - name: SceneImages_2
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 0
+        width: 447
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.29468, y: 138.5}
+        - {x: -76.29468, y: -138.5}
+        - {x: 76.70532, y: -138.5}
+        - {x: 76.70532, y: 138.5}
+    - name: SceneImages_3
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 0
+        width: 489
+        height: 813
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.59473, y: 139}
+        - {x: -83.59473, y: -139}
+        - {x: 84.40527, y: -139}
+        - {x: 84.40527, y: 139}
+    - name: SceneImages_4
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 0
+        width: 486
+        height: 805
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.982666, y: 137.5}
+        - {x: -82.982666, y: -137.5}
+        - {x: 84.017334, y: -137.5}
+        - {x: 84.017334, y: 137.5}
+    - name: SceneImages_5
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 0
+        width: 488
+        height: 806
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.4187, y: 138}
+        - {x: -83.4187, y: -138}
+        - {x: 84.5813, y: -138}
+        - {x: 84.5813, y: 138}
+    - name: SceneImages_6
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 0
+        width: 489
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.354675, y: 139}
+        - {x: -83.354675, y: -139}
+        - {x: 84.645325, y: -139}
+        - {x: 84.645325, y: 139}
+    - name: SceneImages_7
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 0
+        width: 480
+        height: 806
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.69467, y: 138}
+        - {x: -81.69467, y: -138}
+        - {x: 83.30533, y: -138}
+        - {x: 83.30533, y: 138}
+    - name: SceneImages_8
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 494
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.33734, y: 139}
+        - {x: -84.33734, y: -139}
+        - {x: 84.66266, y: -139}
+        - {x: 84.66266, y: 139}
+    - name: SceneImages_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 808
+        height: 814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 14, w: 27}
+      outline:
+      - - {x: -138, y: 139}
+        - {x: -138, y: -139}
+        - {x: 138, y: -139}
+        - {x: 138, y: 139}
+    - name: SceneImages_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 814
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139, y: 85.06665}
+        - {x: -139, y: -84.93335}
+        - {x: 139, y: -84.93335}
+        - {x: 139, y: 85.06665}
+    - name: SceneImages_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1294
+        width: 812
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139, y: 82.68533}
+        - {x: -139, y: -81.31467}
+        - {x: 139, y: -81.31467}
+        - {x: 139, y: 82.68533}
+    - name: SceneImages_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1769
+        width: 819
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140, y: 84.818665}
+        - {x: -140, y: -83.181335}
+        - {x: 140, y: -83.181335}
+        - {x: 140, y: 84.818665}
+    - name: SceneImages_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2262
+        width: 807
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: 81.59601}
+        - {x: -138, y: -81.40399}
+        - {x: 138, y: -81.40399}
+        - {x: 138, y: 81.59601}
+    - name: SceneImages_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2748
+        width: 817
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139.5, y: 84.48401}
+        - {x: -139.5, y: -82.51599}
+        - {x: 139.5, y: -82.51599}
+        - {x: 139.5, y: 84.48401}
+    - name: SceneImages_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3233
+        width: 813
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -139, y: 86.53064}
+        - {x: -139, y: -85.46936}
+        - {x: 139, y: -85.46936}
+        - {x: 139, y: 86.53064}
+    - name: SceneImages_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4222
+        width: 804
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -137.5, y: 81.109375}
+        - {x: -137.5, y: -80.890625}
+        - {x: 137.5, y: -80.890625}
+        - {x: 137.5, y: 81.109375}
+    - name: SceneImages_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4700
+        width: 811
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.5, y: 85.2666}
+        - {x: -138.5, y: -84.7334}
+        - {x: 138.5, y: -84.7334}
+        - {x: 138.5, y: 85.2666}
+    - name: SceneImages_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5209
+        width: 793
+        height: 791
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.5, y: 135.00537}
+        - {x: -135.5, y: -134.99463}
+        - {x: 135.5, y: -134.99463}
+        - {x: 135.5, y: 135.00537}
+    - name: SceneImages_19
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 5191
+        width: 484
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.78934, y: 139.36133}
+        - {x: -82.78934, y: -137.63867}
+        - {x: 83.21066, y: -137.63867}
+        - {x: 83.21066, y: 139.36133}
+    - name: SceneImages_20
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 5198
+        width: 495
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.45068, y: 137.25061}
+        - {x: -84.45068, y: -136.74939}
+        - {x: 85.54932, y: -136.74939}
+        - {x: 85.54932, y: 137.25061}
+    - name: SceneImages_21
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 5195
+        width: 478
+        height: 805
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.466675, y: 137.72668}
+        - {x: -81.466675, y: -137.27332}
+        - {x: 82.533325, y: -137.27332}
+        - {x: 82.533325, y: 137.72668}
+    - name: SceneImages_22
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 5188
+        width: 481
+        height: 812
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.05469, y: 139.83728}
+        - {x: -82.05469, y: -138.16272}
+        - {x: 82.94531, y: -138.16272}
+        - {x: 82.94531, y: 139.83728}
+    - name: SceneImages_23
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 5198
+        width: 478
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.98401, y: 137.25061}
+        - {x: -81.98401, y: -136.74939}
+        - {x: 82.01599, y: -136.74939}
+        - {x: 82.01599, y: 137.25061}
+    - name: SceneImages_24
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 5191
+        width: 474
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.54797, y: 139.36133}
+        - {x: -80.54797, y: -137.63867}
+        - {x: 82.45203, y: -137.63867}
+        - {x: 82.45203, y: 139.36133}
+    - name: SceneImages_25
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 5198
+        width: 478
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.477295, y: 137.25061}
+        - {x: -81.477295, y: -136.74939}
+        - {x: 82.522705, y: -136.74939}
+        - {x: 82.522705, y: 137.25061}
+    - name: SceneImages_26
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 5193
+        width: 471
+        height: 807
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.6134, y: 138.54395}
+        - {x: -80.6134, y: -137.45605}
+        - {x: 81.3866, y: -137.45605}
+        - {x: 81.3866, y: 138.54395}
+    - name: SceneImages_27
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 5203
+        width: 796
+        height: 797
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.90796, y: 137.45728}
+        - {x: -135.90796, y: -135.54272}
+        - {x: 137.09204, y: -135.54272}
+        - {x: 137.09204, y: 137.45728}
+    - name: SceneImages_28
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 4699
+        width: 811
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.32141, y: 84.92529}
+        - {x: -138.32141, y: -83.07471}
+        - {x: 138.67859, y: -83.07471}
+        - {x: 138.67859, y: 84.92529}
+    - name: SceneImages_29
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 4215
+        width: 814
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.84534, y: 83.21997}
+        - {x: -138.84534, y: -81.78003}
+        - {x: 139.15466, y: -81.78003}
+        - {x: 139.15466, y: 83.21997}
+    - name: SceneImages_30
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 3237
+        width: 811
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.32141, y: 84.895996}
+        - {x: -138.32141, y: -83.104004}
+        - {x: 138.67859, y: -83.104004}
+        - {x: 138.67859, y: 84.895996}
+    - name: SceneImages_31
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 1775
+        width: 814
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.84534, y: 84.36664}
+        - {x: -138.84534, y: -82.63336}
+        - {x: 139.15466, y: -82.63336}
+        - {x: 139.15466, y: 84.36664}
+    - name: SceneImages_32
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 1297
+        width: 811
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.32141, y: 81.20932}
+        - {x: -138.32141, y: -79.79068}
+        - {x: 138.67859, y: -79.79068}
+        - {x: 138.67859, y: 81.20932}
+    - name: SceneImages_33
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 813
+        width: 811
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.32141, y: 83.004}
+        - {x: -138.32141, y: -81.996}
+        - {x: 138.67859, y: -81.996}
+        - {x: 138.67859, y: 83.004}
+    - name: SceneImages_34
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 3
+        width: 800
+        height: 787
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.06665, y: 134.524}
+        - {x: -136.06665, y: -134.476}
+        - {x: 137.93335, y: -134.476}
+        - {x: 137.93335, y: 134.524}
+    - name: SceneImages_35
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 2753
+        width: 812
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.16272, y: 83.190674}
+        - {x: -138.16272, y: -81.809326}
+        - {x: 139.83728, y: -81.809326}
+        - {x: 139.83728, y: 83.190674}
+    - name: SceneImages_36
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 2267
+        width: 812
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.16272, y: 83.30267}
+        - {x: -138.16272, y: -81.69733}
+        - {x: 139.83728, y: -81.69733}
+        - {x: 139.83728, y: 83.30267}
+    - name: SceneImages_37
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 5208
+        width: 798
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135.88403, y: 136.16394}
+        - {x: -135.88403, y: -134.83606}
+        - {x: 137.11597, y: -134.83606}
+        - {x: 137.11597, y: 136.16394}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
